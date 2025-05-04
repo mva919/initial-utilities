@@ -1,0 +1,6 @@
+this line has foo in it
+o does this foolish line; do you see where?
+even this line, which has barfood in it, will be printed.
+ffoo
+ffofofo
+
